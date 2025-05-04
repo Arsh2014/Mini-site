@@ -1,0 +1,29 @@
+body{
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+background-color: cornsilk;
+}
+header{
+    color: cadetblue;
+    background-color: burlywood;
+    padding: 15px 20px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+}
+.logo p{
+    margin: 0;
+    font-size: 1.2em;
+    color: aquamarine;
+}
+.s1{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
